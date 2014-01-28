@@ -1,0 +1,8 @@
+﻿Jumper configuration
+====================
+
+The LRCB was designed to be easy to use and customize and for that reason
+there are several solder-jumpers that must be configured depending on the
+way that the board is intended to work.
+
+This file tries to explain the jumper configurations available.
