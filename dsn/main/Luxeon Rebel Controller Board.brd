@@ -1597,7 +1597,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="OC_FARNELL" value="1287409" x="44" y="18.1" size="1.778" layer="27" rot="R225" display="off"/>
 <attribute name="NAME" x="44.461321875" y="15.65341875" size="0.8128" layer="25" ratio="10" rot="SR45"/>
 </element>
-<element name="R7" library="SparkFun-Passives" package="0603-RES" value="5K" x="47.6" y="21.7" smashed="yes" rot="R90">
+<element name="R7" library="SparkFun-Passives" package="0603-RES" value="4.7K" x="47.6" y="21.7" smashed="yes" rot="R90">
 <attribute name="NAME" x="49.038" y="20.311" size="0.4064" layer="25" font="vector" rot="R90"/>
 </element>
 <element name="IC3" library="NewArk-Downloads" package="SOT65P210X110-5N" value="SN74AHC1G125DCKR" x="38.7" y="12.1" smashed="yes" rot="R225">
@@ -1782,7 +1782,7 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="35.32" y1="48.76" x2="34.29" y2="49.79" width="0.6096" layer="1"/>
 <wire x1="34.29" y1="49.79" x2="34.29" y2="53.34" width="0.6096" layer="1"/>
 </signal>
-<signal name="N$4">
+<signal name="VIN">
 <contactref element="IC1" pad="IN"/>
 <contactref element="JP4" pad="5"/>
 <contactref element="C1" pad="1"/>
